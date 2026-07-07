@@ -1,3 +1,0 @@
--- Configuring done
--- Generating done
--- Build files have been written to: C:/Users/incxiuefb/Documents/Files/hdr_viewer/app/.cxx/Debug/4d5po5r2/arm64-v8a

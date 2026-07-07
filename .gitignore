@@ -13,11 +13,15 @@ local.properties
 # CMake/NDK build cache
 app/.cxx/
 app/build/
+build/
+build_aom_probe*/
+build_avif_probe*/
 
-# Native build artifacts
+# Native build artifacts (compiled from libs/ sources)
 *.o
 *.so
 *.a
+libs/prebuilt/
 
 # IDE
 .vscode/
