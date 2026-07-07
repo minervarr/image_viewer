@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/incxiuefb/Documents/Files/hdr_viewer/build_avif_probe/cmake_install.cmake",
+		"C:/Users/incxiuefb/Documents/Files/hdr_viewer/build_avif_probe/contrib/cmake_install.cmake",
+		"C:/Users/incxiuefb/Documents/Files/hdr_viewer/build_avif_probe/contrib/gdk-pixbuf/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

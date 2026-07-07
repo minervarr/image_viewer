@@ -1,0 +1,29 @@
+# Gradle
+.gradle/
+build/
+*.apk
+*.aab
+
+# Android Studio
+.idea/
+*.iml
+.DS_Store
+local.properties
+
+# CMake/NDK build cache
+app/.cxx/
+app/build/
+
+# Native build artifacts
+*.o
+*.so
+*.a
+
+# IDE
+.vscode/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+.DS_Store
